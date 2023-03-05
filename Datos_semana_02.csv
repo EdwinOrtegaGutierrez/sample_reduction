@@ -1,0 +1,136 @@
+ID,ID Alumno,Estatura,Peso,Altura,Ocupación 
+1,1,1.49,86,47,Modista
+2,1,1.68,72,50,taller joyeria 
+3,1,1.51,60,20,Ventas en Local
+4,1,1.53,62,26, Restaurante comida salvadoreña
+5,1,1.59,70,28,Secretaría
+6,1,1.55,100,51,Empleada domestica y terapeuta en masajes
+7,1,1.8,77,22,Estudiante y jugador de boleibol
+8,1,1.59,52,24,Estudiante Universitaria
+9,1,1.7,75,50,Comerciante Panadería
+10,1,1.58,86,45,Ama de casa
+12,1,1.7,78,25,Asesor de clases particulares
+13,1,1.69,93,43,Diseñador Gráfico
+14,2,1.84,98,22,Estudiante 
+15,2,1.7,70,23,Enfemero 
+16,2,1.7,61,24,Estudiante 
+17,2,1.85,96,22,Trabajo
+18,2,1.73,69,37,Nutrióloga 
+19,2,1.8,65,21,Estudiante
+20,2,1.84,86,26,Estudiambre
+21,2,1.78,76,17,Striper 
+22,2,1.5,50,22,estudiante
+23,2,1.65,58,22,Estudiante 
+24,3,1.44,40,11,Estudiante 
+25,3,1.75,80,44,jefe de obra
+26,3,1.65,65,22,fabricante de tabiques
+27,3,1.75,90,23,repartidor de gas
+28,3,1.8,70,48,obrero
+29,3,1.9,100,24,estudiante
+30,3,1.65,49,13,estudiante
+31,3,1.54,58,40,Ama de casa
+32,3,1.6,52,21,estilista
+33,3,1.7,62,25,dentista
+34,3,1.62,58,20,estudiante
+35,3,1.72,65,32,maestra
+36,4,1.68,80,22,ESTUDIANTE
+37,4,1.65,72,26,DENTISTA
+38,4,1.72,75,21,ESTUDIANTE
+39,4,1.58,60,24,OFICINISTA
+40,4,1.72,80,25,DEPORTISTA
+41,4,1.75,87,27,DEPORTISTA
+42,4,1.63,60,55,DOCENTE
+43,4,1.82,87,35,INGENIERO
+44,4,1.78,93,31,INGENIERO
+45,4,1.64,61,22,ESTUDIANTE
+46,4,1.55,62,42,SERVICIO SOCIAL
+47,4,1.6,64,37,AMA DE CASA
+48,5,1.63,55,21,Estudiante de ICCO
+49,5,1.83,70,21,Estudiante de ICCO
+50,5,1.6,43,21,Estudiante de ICCO
+51,5,1.53,62,40,Comerciante
+52,5,1.75,90,39,Chofer
+53,5,1.62,60,17,Mesero
+54,5,1.77,110,33,Tecnico en refigeracion
+55,5,1.68,75,47,Chofer
+56,5,1.72,77,33,Traductor
+57,5,1.59,55,43,Criminologo
+58,5,1.6,66,25,Recursos humanos
+59,5,1.53,45.5,20,Estudiante de Arquitectura
+60,6,1.84,82.9,19,Estudiante 
+61,6,1.7,76,48,Contador
+62,6,1.7,95,22,Analista de Calidad
+63,6,1.7,63,14,Estudiante 
+64,6,1.55,68,51,Amade casa / Estudiante
+65,6,1.73,68,34,Vendedor 
+66,6,1.5,50,22,Estudiante
+67,6,1.87,69,21,Estudiante 
+68,6,1.63,42,18,Estudiante y Barista
+69,6,1.65,58,22,Estudiante 
+70,6,1.72,76,18,Estudiante
+71,6,1.54,50,26,Nutrióloga 
+72,6,1.53,65,14,Estudiante
+73,6,1.75,78,38,Restaurantero 
+74,6,1.78,75,26,Analista de Relaciones Laborales
+75,6,1.7,80,38,Consultor en TI
+76,6,1.8,56,20,Trabajador medio tiempo
+77,6,1.76,58,18,Estudiante
+78,7,1.69,78,21,Estudiante
+79,7,1.75,83,19,Ensamblador de estufas industriales
+80,7,1.58,66,54,Carpintero
+81,7,1.66,86,52,Carpintero
+82,7,1.67,83,28,Repartidor
+83,7,1.67,63,24,Psicologo
+84,7,1.7,95,21,Logistica
+85,7,1.66,64,21,Estudiante
+86,7,1.85,86,17,Estudiante
+87,7,1.72,77,25,Oficial
+88,7,1.73,71,27,Programador
+89,7,1.76,73,28,Programador
+90,8,1.6,90,22,estudiante
+91,8,1.65,60,18,estudiante
+92,8,1.63,80,54,Ama de casa
+93,8,1.8,65,20,estudiante
+94,8,1.56,106,46,Ama de casa
+95,8,1.6,65,46,Transportista
+96,8,1.52,76,19,estudiante
+97,8,1.7,55,19,estudiante
+98,8,1.75,67,19,estudiante
+99,8,1.9,56,19,estudiante
+100,8,1.63,93,64,Ama de casa
+101,8,1.56,56,53,contadora
+102,9,1.74,96,27,Administrador
+103,9,1.69,103,25,Tecnico
+104,9,1.72,90,30,Vendedor
+105,9,1.64,70,20,Estudiante
+106,9,1.76,115,35,Abogado
+107,9,1.68,87,22,Estudiante
+108,9,1.79,103,25,Cajero
+109,9,1.72,111,29,Maestro
+110,9,1.75,109,32,Tecnico
+111,9,1.67,84,20,Estudiante
+112,9,1.65,89,23,Estudiante
+113,9,1.7,81,21,Estudiante
+114,10,1.91,110,50,Ingeniero instrumentista
+115,10,1.62,77,46,Psicologa
+116,10,1.66,74,19,Estudiante
+117,10,1.73,70,26,Ingeniero electrónico
+118,10,1.85,92,21,Técnico diagnóstico
+119,10,1.64,55,30,Lic. Contabilidad manejo nóminas
+120,10,1.88,103,42,Freelancer
+121,10,1.57,60,49,Terapeuta
+122,10,1.6,78,22,Técnico farmacobiologa
+123,10,1.85,84,22,Estudiante
+124,10,1.73,60,19,Estudiante
+125,10,1.81,73,20,Ingeniero mecatrónico
+126,11,1.68,75,65,Hogar
+127,11,1.83,83,23,Obrero
+128,11,1.65,55,21,Estudiante
+129,11,1.6,53,23,Hoster restaurante
+130,11,1.79,79,23,Pasante nutrición
+131,11,1.62,70,21,Estudiante
+132,11,1.75,79,25,Arquitecto AWS
+133,11,1.6,70,20,Estudiante
+134,11,1.7,60,35,Desempleada
+135,11,1.74,84,30,Home office
+136,11,1.62,62,22,Estudiante
